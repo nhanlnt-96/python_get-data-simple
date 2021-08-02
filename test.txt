@@ -1,0 +1,40 @@
+Họ và Tên CMND Điểm thi
+ ĐỖ THỊ THÚY AN 060303000081 Toán: 8.20 Ngữ văn: 7.00 Vật lí: 8.00 Hóa học: 8.50 Sinh học: 7.75 KHTN: 8.08 Tiếng Anh: 8.20 
+Họ và Tên CMND Điểm thi
+ HOÀNG PHƯƠNG AN 079303034316 Toán: 8.80 Ngữ văn: 7.00 Lịch sử: 7.75 Địa lí: 8.00 GDCD: 9.00 KHXH: 8.25 Tiếng Anh: 9.80 
+Họ và Tên CMND Điểm thi
+ LÊ MINH CHÂU AN 079302009715 Toán: 7.80 Ngữ văn: 6.50 Lịch sử: 7.75 Địa lí: 7.25 GDCD: 9.25 KHXH: 8.08 Tiếng Nhật: 9.20 
+Họ và Tên CMND Điểm thi
+ NGUYỄN NGỌC THY AN 079303016386 Toán: 6.60 Ngữ văn: 7.00 Lịch sử: 6.00 Địa lí: 7.50 GDCD: 9.25 KHXH: 7.58 Tiếng Anh: 9.60 
+Họ và Tên CMND Điểm thi
+ NGUYỄN NHƯ MINH AN 077303001052 Toán: 8.00 Ngữ văn: 6.75 Vật lí: 5.75 Hóa học: 8.00 Sinh học: 7.25 KHTN: 7 Tiếng Anh: 8.60 
+Họ và Tên CMND Điểm thi
+ NGUYỄN TRẦN NGỌC AN 079303008041 Toán: 7.80 Ngữ văn: 6.50 Lịch sử: 6.75 Địa lí: 6.50 GDCD: 8.25 KHXH: 7.17 Tiếng Anh: 8.80 
+Họ và Tên CMND Điểm thi
+ PHẠM DƯƠNG QUẾ AN 079303012512 Toán: 8.20 Ngữ văn: 6.00 Vật lí: 5.50 Hóa học: 7.25 Sinh học: 4.75 KHTN: 5.83 Tiếng Anh: 5.00 
+Họ và Tên CMND Điểm thi
+ PHẠM HOÀNG THỤY AN 079203000790 Toán: 7.60 Ngữ văn: 5.50 Vật lí: 6.25 Hóa học: 7.00 Sinh học: 5.25 KHTN: 6.17 Tiếng Anh: 9.00 
+Họ và Tên CMND Điểm thi
+ BÙI VŨ DIỆU ANH 096303000145 Toán: 7.60 Ngữ văn: 7.25 Vật lí: 6.50 Hóa học: 8.25 Sinh học: 5.75 KHTN: 6.83 Tiếng Anh: 9.00 
+Họ và Tên CMND Điểm thi
+ CAO NGỌC VÂN ANH 079303016805 Toán: 7.40 Ngữ văn: 7.50 Lịch sử: 7.25 Địa lí: 7.00 GDCD: 8.00 KHXH: 7.42 Tiếng Anh: 9.20 
+Họ và Tên CMND Điểm thi
+ DƯƠNG THỊ QUỲNH ANH 066303000049 Toán: 7.60 Ngữ văn: 7.50 Vật lí: 5.75 Hóa học: 6.25 Sinh học: 5.75 KHTN: 5.92 Tiếng Anh: 8.80 
+Họ và Tên CMND Điểm thi
+ ĐÀO PHƯƠNG ANH 079303005742 Toán: 8.40 Ngữ văn: 5.25 Vật lí: 8.25 Hóa học: 4.75 Sinh học: 4.75 KHTN: 5.92 Tiếng Anh: 9.40 
+Họ và Tên CMND Điểm thi
+ ĐÀO THỊ MAI ANH 001303046338 Toán: 8.40 Ngữ văn: 8.00 Vật lí: 5.00 Hóa học: 8.00 Sinh học: 7.50 KHTN: 6.83 Tiếng Anh: 7.60 
+Họ và Tên CMND Điểm thi
+ ĐẬU NGỌC TUẤN ANH 079203036932 Toán: 7.00 Ngữ văn: 7.75 Vật lí: 6.50 Hóa học: 6.25 Sinh học: 6.00 KHTN: 6.25 Tiếng Anh: 8.60 
+Họ và Tên CMND Điểm thi
+ LÊ ĐÌNH ANH 079203010642 Toán: 8.40 Ngữ văn: 5.75 Vật lí: 7.25 Hóa học: 7.25 Sinh học: 6.00 KHTN: 6.83 Tiếng Anh: 9.20 
+Họ và Tên CMND Điểm thi
+ LÊ PHÚC MINH ANH 046303000079 Toán: 8.00 Ngữ văn: 7.75 Vật lí: 6.25 Hóa học: 8.25 Sinh học: 7.75 KHTN: 7.42 Tiếng Anh: 9.20 
+Họ và Tên CMND Điểm thi
+ MAI LIỄU TRÂM ANH 079303003877 Toán: 7.20 Ngữ văn: 7.50 Vật lí: 6.50 Hóa học: 7.00 Sinh học: 5.25 KHTN: 6.25 Tiếng Anh: 8.20 
+Họ và Tên CMND Điểm thi
+ NGUYỄN CAO HỒNG ANH 079303028505 Toán: 8.80 Ngữ văn: 8.00 Lịch sử: 5.75 Địa lí: 5.50 GDCD: 9.00 KHXH: 6.75 Tiếng Anh: 9.40 
+Họ và Tên CMND Điểm thi
+ NGUYỄN DUY ANH 079203011760 Toán: 7.80 Ngữ văn: 7.00 Vật lí: 7.75 Hóa học: 8.25 Sinh học: 6.75 KHTN: 7.58 Tiếng Anh: 9.60 
+Họ và Tên CMND Điểm thi
+ NGUYỄN HỒNG VÂN ANH 079303014364 Toán: 8.40 Ngữ văn: 6.50 Vật lí: 5.75 Hóa học: 6.50 Sinh học: 4.50 KHTN: 5.58 Tiếng Anh: 8.80 
